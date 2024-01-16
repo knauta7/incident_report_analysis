@@ -1,7 +1,7 @@
 <h1>Incident Report Analysis</h1>
 
 <h2>Description</h2>
-This project scenario (from the Google Cybersecurity Certificate) will demonstrate the knowledge that I've gained about networks. I will analyze the situation using the National Institute of Standards and Technology's Cybersecurity Framework (NIST CSF) and create an incident report of my findings.
+This activity will demonstrate the knowledge that I've gained about networks. I will analyze the situation using the National Institute of Standards and Technology's Cybersecurity Framework (NIST CSF) and create an incident report of my findings.
 <br><br>
 
 
@@ -67,10 +67,11 @@ As a cybersecurity analyst, I'm tasked with using this security event to create 
 
 
 
-
 <!--
  ```
  This Incident Report Analysis Repository contains the following:
  Incident Report Analysis
+
+ The scenario listed above is taken from one of the Activities sections provided by the Google Career Cybersecurity Certificate.
 ```
 --!>
